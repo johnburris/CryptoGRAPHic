@@ -20,3 +20,6 @@ obj/
 # Ignore the Publish Output folder
 publish/
 
+# Ignore saved price data
+wwwroot/price_actual.json
+wwwroot/price_predicted.json

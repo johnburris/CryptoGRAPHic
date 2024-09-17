@@ -24,3 +24,12 @@ body {
 h1 {
   text-align: center;
 }
+
+/* CSS for tooltip color */
+.green-text {
+  color: rgba(75, 192, 75);
+}
+
+.red-text {
+  color: rgba(255, 99, 132);
+}
