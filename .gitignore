@@ -1,0 +1,22 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.sln.docstates
+
+# Rider project files
+.idea/
+
+# Logs
+*.log
+
+# Environment variables and sensitive info
+.env
+
+# Ignore the Publish Output folder
+publish/
+
